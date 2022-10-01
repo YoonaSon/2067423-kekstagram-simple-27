@@ -1,9 +1,9 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Ирина Сон](https://up.htmlacademy.ru/javascript/27/user/2067423).
-* Наставник: `Никита Канаев`.
+* Наставник: [Канаев Никита](https://htmlacademy.ru/profile/lui).
 
----
+---git
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
