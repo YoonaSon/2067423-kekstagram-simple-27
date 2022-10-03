@@ -13,7 +13,7 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.jso
 [Как работать с Git на проекте](Contributing.md) | [Как работать над проектом](Workflow.md)
 
 ### Памятка
-
+ghjdthrf
 #### 1. Зарегистрируйтесь на Гитхабе
 
 Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
