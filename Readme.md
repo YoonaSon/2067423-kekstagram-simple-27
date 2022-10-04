@@ -1,7 +1,11 @@
 # Личный проект «Кекстаграм (простой)»
 
 * Студент: [Ирина Сон](https://up.htmlacademy.ru/javascript/27/user/2067423).
+<<<<<<< HEAD
 * Наставник: [Канаев Никита](https://htmlacademy.ru/profile/lui).
+=======
+* Наставник: [Никита Канаев](https://htmlacademy.ru/profile/lui).
+>>>>>>> b8e98e4fac672267b084f5aff1fe7329f8f0ed9d
 
 ---git
 
